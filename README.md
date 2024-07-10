@@ -1,4 +1,3 @@
-# magic-arena-game
 # Swiggy_assign
 
 ## Introduction
@@ -20,7 +19,7 @@ To get started with the Arena Battle Game, follow these steps:
 ### Clone the repository:
 
 ```
-git clone https://github.com/wittysam8382/magic-arena-game.git
+git clone https://github.com/wittysam8382/Swiggy_assign.git
 ```
 
 ### Navigate to the project directory
